@@ -1,1 +1,282 @@
-{"proyecto":{"nombre":"Remodelación Dunkin' Pasaje Rubio","ubicacion":"Pasaje Rubio, zona 1, Ciudad de Guatemala","etapa":"Por iniciar"},"actualizado":"2026-10-16T12:00:00","reportes":[]}
+{
+ "proyecto": {
+  "nombre": "Remodelación Dunkin' Pasaje Rubio",
+  "ubicacion": "Pasaje Rubio, zona 1, Ciudad de Guatemala",
+  "etapa": "Levantamiento – estado actual"
+ },
+ "actualizado": "2026-10-16T20:56:31",
+ "reportes": [
+  {
+   "numero": 0,
+   "fecha": "2026-09-04",
+   "etapa": "Levantamiento – estado actual",
+   "avance": 0.0,
+   "fotos": [
+    {
+     "src": "fotos/00-001.jpg",
+     "txt": "Esquinero metálico en muro de área de clientes, sillas y silla para bebé existentes."
+    },
+    {
+     "src": "fotos/00-002.jpg",
+     "txt": "Esquina de banquette con muro forrado de madera y cuadros existentes."
+    },
+    {
+     "src": "fotos/00-003.jpg",
+     "txt": "Banquette existente, muro de madera con cuadros y acceso al pasaje."
+    },
+    {
+     "src": "fotos/00-004.jpg",
+     "txt": "Zona de sillones junto a ventanería y cajero 5B."
+    },
+    {
+     "src": "fotos/00-005.jpg",
+     "txt": "Encuentro de banquette con ventanería y macetero."
+    },
+    {
+     "src": "fotos/00-006.jpg",
+     "txt": "Muro principal de madera con cuadros, banquette de dos tramos, rieles con spots y lámpara colgante rosada."
+    },
+    {
+     "src": "fotos/00-007.jpg",
+     "txt": "Rieles de iluminación con spots sobre cielo negro y cuadros en muro de madera."
+    },
+    {
+     "src": "fotos/00-008.jpg",
+     "txt": "Lavamanos de sobreponer sobre top de granito negro, espejo y secador de manos en baño."
+    },
+    {
+     "src": "fotos/00-009.jpg",
+     "txt": "Baño con inodoro, mingitorio de fluxómetro, cambiador de pañales y barras de apoyo."
+    },
+    {
+     "src": "fotos/00-010.jpg",
+     "txt": "Lavamanos y espejo de baño con azulejo decorativo en muro."
+    },
+    {
+     "src": "fotos/00-011.jpg",
+     "txt": "Detalle de lavamanos, dispensador de jabón y espejo existente en baño."
+    },
+    {
+     "src": "fotos/00-012.jpg",
+     "txt": "Cielo de baño con ojos de buey existentes."
+    },
+    {
+     "src": "fotos/00-013.jpg",
+     "txt": "Puerta de baño de madera con desgaste en barniz y mingitorio con fluxómetro."
+    },
+    {
+     "src": "fotos/00-014.jpg",
+     "txt": "Acceso al baño desde área de clientes, secador de manos y puerta abatible."
+    },
+    {
+     "src": "fotos/00-015.jpg",
+     "txt": "Baño con inodoro, sensor y barras de apoyo."
+    },
+    {
+     "src": "fotos/00-016.jpg",
+     "txt": "Barra junto a ventanería con bancos altos, sillones y alfombra de acceso."
+    },
+    {
+     "src": "fotos/00-017.jpg",
+     "txt": "Pasillo de acceso a área de operación con transición de piso hidráulico a piso quarry existente."
+    },
+    {
+     "src": "fotos/00-018.jpg",
+     "txt": "Área de lavado con lavatrastos de 3 fosas, estanterías e insumos almacenados en área de operación."
+    },
+    {
+     "src": "fotos/00-019.jpg",
+     "txt": "Lavamanos de acero inoxidable en área de operación junto a refrigerador, con dispensadores de jabón y toallas."
+    },
+    {
+     "src": "fotos/00-020.jpg",
+     "txt": "Refrigerador vertical de acero inoxidable y lavamanos en área de operación."
+    },
+    {
+     "src": "fotos/00-021.jpg",
+     "txt": "Mop sink con calentador de agua instantáneo y conexiones en muro."
+    },
+    {
+     "src": "fotos/00-022.jpg",
+     "txt": "Lavatrastos de 3 fosas con escurridor, extintor y cajas almacenadas en piso."
+    },
+    {
+     "src": "fotos/00-023.jpg",
+     "txt": "Equipo de filtrado de agua junto a lavatrastos, con pertenencias del personal almacenadas en el área."
+    },
+    {
+     "src": "fotos/00-024.jpg",
+     "txt": "Área de lavado con estanterías, extintor, tablero eléctrico y bodega de insumos en piso."
+    },
+    {
+     "src": "fotos/00-025.jpg",
+     "txt": "Bancos altos con aro en barra junto a ventanería y sillones."
+    },
+    {
+     "src": "fotos/00-026.jpg",
+     "txt": "Counter principal con mampara de vidrio, vitrina de donas y TVs de menú."
+    },
+    {
+     "src": "fotos/00-027.jpg",
+     "txt": "Nube de tablayeso con cielo curvo naranja sobre counter, TVs de menú y lámparas colgantes."
+    },
+    {
+     "src": "fotos/00-028.jpg",
+     "txt": "Rejillas de HVAC, cámara de seguridad, ojos de buey y TV de menú en cielo de área de operación."
+    },
+    {
+     "src": "fotos/00-029.jpg",
+     "txt": "Estación de bebidas con dispensadores de té frío, licuadora y repisa con insumos en área de equipos."
+    },
+    {
+     "src": "fotos/00-030.jpg",
+     "txt": "Horno y ducto metálico existente detrás de equipos en área de operación."
+    },
+    {
+     "src": "fotos/00-031.jpg",
+     "txt": "Ducto metálico de extracción y tubería eléctrica sobre equipos."
+    },
+    {
+     "src": "fotos/00-032.jpg",
+     "txt": "Área de preparación con mesa refrigerada, refrigerador y horno."
+    },
+    {
+     "src": "fotos/00-033.jpg",
+     "txt": "Equipo de filtrado de agua, silla y pertenencias del personal junto a lavatrastos."
+    },
+    {
+     "src": "fotos/00-034.jpg",
+     "txt": "Lavatrastos de 3 fosas con trampa de grasa bajo tarja, manguera y cajas en piso."
+    },
+    {
+     "src": "fotos/00-035.jpg",
+     "txt": "Área de lavado con estanterías de utensilios, extintor y gabinete eléctrico."
+    },
+    {
+     "src": "fotos/00-036.jpg",
+     "txt": "Área de POS de conera con TV de menú, unidad de aire acondicionado tipo split y ventanería hacia el pasaje."
+    },
+    {
+     "src": "fotos/00-037.jpg",
+     "txt": "TV de menú suspendida sobre acceso y vista hacia área de operación."
+    },
+    {
+     "src": "fotos/00-038.jpg",
+     "txt": "Ventanilla de conera desde el pasaje con gráficos promocionales y cinta de precaución en fachada."
+    },
+    {
+     "src": "fotos/00-039.jpg",
+     "txt": "Fachada principal con letrero Dunkin' Donuts existente."
+    },
+    {
+     "src": "fotos/00-040.jpg",
+     "txt": "Antiguo coffee station con cafeteras e insumos."
+    },
+    {
+     "src": "fotos/00-041.jpg",
+     "txt": "Basurero de madera existente con desgaste en acabado."
+    },
+    {
+     "src": "fotos/00-042.jpg",
+     "txt": "Mesas de madera con desgaste en barniz y sillas existentes en área de clientes."
+    },
+    {
+     "src": "fotos/00-043.jpg",
+     "txt": "Mesa de madera con rayones y desgaste en superficie."
+    },
+    {
+     "src": "fotos/00-044.jpg",
+     "txt": "Mop sink con sarro y sisas deterioradas en enchape."
+    },
+    {
+     "src": "fotos/00-045.jpg",
+     "txt": "Trampa de grasa y tubería de drenaje bajo lavatrastos, con insumos almacenados en piso."
+    },
+    {
+     "src": "fotos/00-046.jpg",
+     "txt": "Silla, pertenencias del personal y filtro de agua entre refrigerador y lavatrastos."
+    },
+    {
+     "src": "fotos/00-047.jpg",
+     "txt": "Lavatrastos de 3 fosas con escurridor, grifería de pre-enjuague y extintor."
+    },
+    {
+     "src": "fotos/00-048.jpg",
+     "txt": "Área de lavado con filtros de agua, calentador, estanterías y gabinete superior."
+    },
+    {
+     "src": "fotos/00-049.jpg",
+     "txt": "Counter de POS con pantallas de menú, vitrina de donas y equipos detrás de counter."
+    },
+    {
+     "src": "fotos/00-050.jpg",
+     "txt": "Área detrás de counter con máquina Taylor, cafeteras y TVs de menú."
+    },
+    {
+     "src": "fotos/00-051.jpg",
+     "txt": "Área de equipos junto a ventanería con máquina Taylor, POS y unidad de aire acondicionado."
+    },
+    {
+     "src": "fotos/00-052.jpg",
+     "txt": "Ventanilla de conera con superficie sólida existente y máquina Taylor."
+    },
+    {
+     "src": "fotos/00-053.jpg",
+     "txt": "Máquina Taylor y equipos de bebidas detrás del counter de conera."
+    },
+    {
+     "src": "fotos/00-054.jpg",
+     "txt": "Piso hidráulico en acceso con alfombra y estantería metálica."
+    },
+    {
+     "src": "fotos/00-055.jpg",
+     "txt": "Piso hidráulico en acceso con sisas abiertas y desgaste."
+    },
+    {
+     "src": "fotos/00-056.jpg",
+     "txt": "Piso hidráulico en área de mesas con sisas deterioradas y piezas desportilladas."
+    },
+    {
+     "src": "fotos/00-057.jpg",
+     "txt": "Piso hidráulico en área de mesas con sisas abiertas y manchas."
+    },
+    {
+     "src": "fotos/00-058.jpg",
+     "txt": "Columna de fachada con cinta de precaución y obra colindante en el pasaje con nylon en piso."
+    },
+    {
+     "src": "fotos/00-059.jpg",
+     "txt": "Persiana metálica de fachada y gráfico promocional en ventanería."
+    },
+    {
+     "src": "fotos/00-060.jpg",
+     "txt": "Umbral exterior de ventanería con desgaste y objetos de comerciantes del pasaje junto a la fachada."
+    },
+    {
+     "src": "fotos/00-061.jpg",
+     "txt": "Fachada sobre ventanería hacia el pasaje, con espacio para letrero Dunkin'."
+    },
+    {
+     "src": "fotos/00-062.jpg",
+     "txt": "Columna interior con zócalo de madera desgastado en encuentro con ventanería."
+    },
+    {
+     "src": "fotos/00-063.jpg",
+     "txt": "Umbral de acceso con madera desgastada y piso hidráulico con sisas abiertas."
+    },
+    {
+     "src": "fotos/00-064.jpg",
+     "txt": "Vista general de counter, vitrina de donas, TVs de menú y nube de cielo curvo con la tienda en operación."
+    },
+    {
+     "src": "fotos/00-065.jpg",
+     "txt": "Vista general de counter con TVs de menú y estructura de menú en cielo a remover."
+    },
+    {
+     "src": "fotos/00-066.jpg",
+     "txt": "Vista general de área de clientes con lámparas colgantes de tambor, muro de madera con cuadros, banquette y mesas."
+    }
+   ]
+  }
+ ]
+}

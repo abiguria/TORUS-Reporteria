@@ -112,7 +112,16 @@ button:focus-visible,li:focus-visible,.car:focus-visible{outline:2px solid var(-
   function render(w, data, src) {
     var base = src.replace(/[^/]*$/, '');
     var rs = (data.reportes || []).slice().sort(function (a, b) { return a.fecha < b.fecha ? -1 : 1; });
-    if (!rs.length) { w.innerHTML = '<div class="empty">Aún no hay visitas publicadas.</div>'; return; }
+    if (!rs.length) {
+      var P0 = data.proyecto || {};
+      w.innerHTML = '<div class="hd"><div class="t"><div class="ey">TORUS · Avance de obra</div><h2>' + esc(P0.nombre) + '</h2><div class="loc">' + esc(P0.ubicacion || '') + '</div></div>' +
+        '<div class="upd">Actualizado<b>' + fmt((data.actualizado || '').slice(0, 10)) + '</b></div></div>' +
+        '<div class="kpis"><div><span class="lb">Avance de obra</span><span class="big">0<small>%</small></span><div class="bar"><i style="width:0"></i></div><span class="note">' + esc(P0.etapa || 'Por iniciar') + '</span></div>' +
+        '<div><span class="lb">Última visita</span><span class="mid">—</span></div><div><span class="lb">Visitas</span><span class="big">0</span></div><div><span class="lb">Fotos</span><span class="big">0</span></div></div>' +
+        '<div class="card"><h3>Registro de obra</h3><p class="note" style="margin:0;font-size:14px">Las visitas de obra, la curva de avance y el registro fotográfico aparecerán aquí cuando se publique el primer reporte.</p></div>' +
+        '<div class="ft"><span>Reporte generado desde la bitácora de obra de <b>TORUS.</b></span></div>';
+      return;
+    }
     rs.forEach(function (r) { r.avance = +r.avance || 0; r.fotos = (r.fotos || []).map(function (f) { return typeof f === 'string' ? { src: f, txt: '' } : f; }); });
     var last = rs[rs.length - 1], cur = rs.length - 1, idx = 0;
     var totalFotos = rs.reduce(function (a, r) { return a + r.fotos.length; }, 0);
