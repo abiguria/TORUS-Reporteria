@@ -6,7 +6,8 @@ Tablero público de avance de obra de los proyectos de TORUS, publicado con GitH
 - `<proyecto>/datos.json` — datos públicos del proyecto. **Nunca** contiene presupuesto, renglones, pendientes ni acuerdos.
 - `<proyecto>/fotos/` — fotos publicadas (sin metadatos de ubicación).
 - `<proyecto>/index.html` — página lista para mostrar dentro de Wix.
-- `tools/publicar.py` — convierte un reporte emitido de la bitácora en datos públicos.
+- `tools/sincronizar.py` — reconstruye `datos.json` y las fotos de un proyecto a partir de los reportes emitidos en la bitácora (lo usa el botón **Publicar en sitio**).
+- `tools/publicar.py` — versión anterior, para publicar un solo reporte a mano.
 
 Se actualiza desde la bitácora de obra con el botón **Publicar en sitio**.
 
