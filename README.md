@@ -1,4 +1,4 @@
-# reporteria1 · TORUS avance de obra
+# TORUS-Reporteria · avance de obra
 
 Tablero público de avance de obra de los proyectos de TORUS, publicado con GitHub Pages e insertado en el sitio de TORUS (Wix).
 
@@ -9,3 +9,9 @@ Tablero público de avance de obra de los proyectos de TORUS, publicado con GitH
 - `tools/publicar.py` — convierte un reporte emitido de la bitácora en datos públicos.
 
 Se actualiza desde la bitácora de obra con el botón **Publicar en sitio**.
+
+## Proyectos publicados
+
+| Proyecto | Carpeta |
+|---|---|
+| Remodelación Dunkin' Pasaje Rubio | `pasaje-rubio-7k4m/` |
